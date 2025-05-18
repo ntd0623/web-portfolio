@@ -2,8 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "../components/Projects/ProjectCard";
 import Particle from "../components/Particle";
-import pg from "../assets/projects/pg.png";
-import project from "../assets/projects/project.jpeg";
 import lift from "../assets/projects/lift.png";
 import webfortfolio from "../assets/web-portfolio.png";
 const Projects = () => {
@@ -37,7 +35,7 @@ Booking Care delivers a smooth and secure booking experience for patients and cl
               isBlog={false}
               title="Web Portfolio"
               description="This is my personal portfolio website built with ReactJS and Bootstrap, showcasing my skills, projects, and experience. The site features a clean, responsive design to provide an optimal user experience across devices. It highlights my journey as an IT student preparing for internship opportunities in web development."
-              ghLink="https://github.com/"
+              ghLink="https://github.com/ntd0623/web-portfolio"
             />
           </Col>
         </Row>
