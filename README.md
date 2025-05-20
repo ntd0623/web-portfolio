@@ -66,7 +66,7 @@ Hello, I am **Thanh Đô**, an IT student at **Thu Duc Technology College**. I s
 ## 📫 Contact
 
 - 📧 Email: thanhdo062305@gmail.com  
-- 💻 GitHub: https://github.com/your-username](https://github.com/ntd0623 
+- 💻 GitHub: https://github.com/ntd0623 
 ---
 
 > *"Code not only to run, but to scale, maintain, and grow sustainably."*
